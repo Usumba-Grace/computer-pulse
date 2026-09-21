@@ -1,0 +1,32 @@
+﻿====================================================
+           COMPUTER PULSE - HARDWARE & NETWORK LOG   
+====================================================
+Timestamp          : 2026-09-21 17:12:15
+Active Processes   : 167 running processes
+CPU Utilization    : 6% load
+----------------------------------------------------
+Top 3 Memory-Consuming Processes:
+
+Name     RAM_MB
+----     ------
+firefox  289.74
+firefox  260.98
+explorer 241.11
+
+
+
+----------------------------------------------------
+Disk Storage Breakdown:
+
+DeviceID FreeGB TotalGB
+-------- ------ -------
+C:       163.57  230.25
+D:       243.35  243.45
+
+
+
+----------------------------------------------------
+Network Diagnostics:
+Active IPv4 Address: 10.176.140.81
+Internet Latency   : Host Unreachable (Target: 8.8.8.8)
+====================================================
